@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Staelp
 - 👀 I’m interested in learning and making cool apps.
-- 🌱 I’m currently learning React and Spring Boot.
+- 🌱 I’m currently learning React and numerous AWS services.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - staelpetit@gmail.com
 
