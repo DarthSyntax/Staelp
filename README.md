@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Staelp
 - 👀 I’m interested in learning and making cool apps.
 - 🌱 I’m currently learning React and numerous AWS services.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - staelpetit@gmail.com
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!---
 Staelp/Staelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
