@@ -328,18 +328,18 @@ Adding metrics</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.69786293294031 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.694290976058932 329"/>
                                     <text x="60" y="50" dominant-baseline="central">80</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2714</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2715</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.395555555555557 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.36094674556213 329"/>
                                     <text x="60" y="50" dominant-baseline="central">48</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/675</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/676</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
@@ -367,7 +367,7 @@ Adding metrics</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2023, 14:17:17 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jun 2023, 15:10:49 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
