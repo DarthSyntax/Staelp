@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Staelp
 - 👀 I’m interested in learning and making cool apps.
-- 🌱 I’m currently learning NextJS and numerous AWS services.
+- 🌱 I’m currently learning Ruby and Ruby on Rails.
 - 📫 How to reach me - staelpetit@gmail.com
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
